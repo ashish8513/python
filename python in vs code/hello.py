@@ -1,0 +1,5 @@
+print("hello python!")
+a=input("enter a number")
+print("your number is:- ",a)
+# def func1()
+print("ashish prabhakar")
